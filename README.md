@@ -1,7 +1,7 @@
 # Coursera_Capstone
 
 This is my capstone project concluding IBM Data Science course.
-Final assignment is coded in Python with JupytherLab.
+Final assignment is coded in Python with JupyterLab.
 
 __This folder consist of:__
 01. Introduction to Business Problem.ipynb
